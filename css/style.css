@@ -401,8 +401,8 @@ main .section-quality__opinion__card-user .user-info span {
   width: 330px;
   height: 340px;
   background-color: #181f2a;
-  -webkit-box-shadow: 7px 7px 20px #12131c;
-          box-shadow: 7px 7px 20px #12131c;
+  -webkit-box-shadow: 7px 7px 15px #12131c;
+          box-shadow: 7px 7px 15px #12131c;
   border-radius: 10px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
