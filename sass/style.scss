@@ -8,11 +8,14 @@
    box-sizing: border-box;
 }
 
+html {
+   scroll-behavior: smooth;
+}
+
 body {
    font-family: 'Open Sans', sans-serif;
    font-size: 14px;
    color: $white;
-   overflow-x: hidden;
 }
 
 .wrapper1 {
@@ -249,7 +252,7 @@ main {
                   }
 
                   + .icon-arrow {
-                     background: url('/img/icon-arrow-hover.svg') center;
+                     background: url('../img/icon-arrow-hover.svg') center;
                   }
                }
             }
@@ -259,7 +262,7 @@ main {
                margin-left: 5px;
                width: 16px;
                height: 16px;
-               background: url('/img/icon-arrow.svg') center;
+               background: url('../img/icon-arrow.svg') center;
                background-size: cover;
                transition: background .3s;
                will-change: background;
