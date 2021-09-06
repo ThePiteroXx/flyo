@@ -10,8 +10,7 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https:/thepiteroxx.github.io/flyo)
+- Live Site URL: [Live](https://thepiteroxx.github.io/flyo/)
 
 ## My process
 
