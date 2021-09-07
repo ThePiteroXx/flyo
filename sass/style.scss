@@ -16,7 +16,6 @@ body {
    font-family: 'Open Sans', sans-serif;
    font-size: 14px;
    color: $white;
-   overflow-x: hidden;
 }
 
 .wrapper1 {
@@ -167,6 +166,7 @@ main {
 
    .section-quality {
       padding: 20px;
+      overflow: hidden;
       
       &__heading {
          margin-bottom: 15px;
